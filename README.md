@@ -1,4 +1,7 @@
-- data down load url: 
+### 项目说明
+- python pandas 数据处理demo项目
+
+### 常用git命令
 ```shell
 ## 带有--ignored选项的git status命令显示所有被忽略文件的列表
 git status --ignored
