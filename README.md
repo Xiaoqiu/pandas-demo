@@ -30,8 +30,7 @@ git filter-branch --index-filter 'git rm --cached --ignore-unmatch client/static
 
 ## python 常用命令
 ```shell
-## py3 -m venv RequestsVenv
-
+py -m venv RequestsVenv
 
 ```
 
