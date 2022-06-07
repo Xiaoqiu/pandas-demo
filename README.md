@@ -27,3 +27,14 @@ git filter-branch --tree-filter 'rm -rf path/to/your/file' HEAD
 ## Where I placed full file path(from error above) to remove it from cache. After that, push was made successfully
 git filter-branch --index-filter 'git rm --cached --ignore-unmatch client/static/static-version/20171221_221446.psd'
 ```
+
+## python 常用命令
+```shell
+## py3 -m venv RequestsVenv
+
+
+```
+
+## python http
+- http接口测试网址：https://httpbin.org/#/HTTP_Methods
+- 
