@@ -3,7 +3,7 @@
 > git status --ignored
 > 
 > --cached选项告诉git不要从工作树中删除文件，而只是从索引中删除它。要递归删除目录，请使用-r选项：
-> git rm --cached filename
+> git rm -r --cached filename
 > 
 > 这是git check-ignore命令的用处，告诉git显示匹配模式的详细信息。
 > git check-ignore -v www/yarn.lock
