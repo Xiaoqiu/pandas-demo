@@ -36,4 +36,14 @@ py -m venv RequestsVenv
 
 ## python http
 - http接口测试网址：https://httpbin.org/#/HTTP_Methods
-- 
+
+## python 高级教程
+```shell
+## 
+
+```
+
+## python machine learning
+```shell
+
+```
