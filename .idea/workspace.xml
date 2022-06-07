@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="675e21a4-a1cb-486f-9733-dcd721498b55" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/data/so_survey_2021.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/data/survey_results_public.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/data/survey_results_schema.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/data2/so_survey_2019.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/data2/survey_results_public.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/data2/survey_results_schema.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/pandas-04.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/pandas-04.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +75,7 @@
       <updated>1654504132127</updated>
       <workItem from="1654504133833" duration="38000" />
       <workItem from="1654504204405" duration="2941000" />
-      <workItem from="1654567028252" duration="1142000" />
+      <workItem from="1654567028252" duration="1227000" />
     </task>
     <servers />
   </component>
