@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="675e21a4-a1cb-486f-9733-dcd721498b55" name="Changes" comment="" />
+    <list default="true" id="675e21a4-a1cb-486f-9733-dcd721498b55" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/data/so_survey_2021.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/data/survey_results_public.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/data/survey_results_schema.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/data2/so_survey_2019.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/data2/survey_results_public.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/data2/survey_results_schema.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/pandas-04.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/pandas-04.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,17 +33,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/kate/PycharmProjects/pythonProject/notebooks",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kate/PycharmProjects/pythonProject/notebooks&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/notebooks" />
@@ -71,12 +82,24 @@
       <option name="presentableId" value="Default" />
       <updated>1654504132127</updated>
       <workItem from="1654504133833" duration="38000" />
-      <workItem from="1654504204405" duration="942000" />
+      <workItem from="1654504204405" duration="2941000" />
+      <workItem from="1654567028252" duration="1142000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
