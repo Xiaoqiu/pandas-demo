@@ -18,4 +18,9 @@ git remote set-url origin https://<githubtoken>@github.com/<username>/<repositor
 
 git push -u origin main --force
 
+git filter-branch --tree-filter 'rm -rf path/to/your/file' HEAD
+
+## And because I already removed this file from this folder, created .gitignore file and tried to commit couple times, I didn't know that it was cached, I could not push to github. In my case helped:
+## Where I placed full file path(from error above) to remove it from cache. After that, push was made successfully
+git filter-branch --index-filter 'git rm --cached --ignore-unmatch client/static/static-version/20171221_221446.psd'
 ```
