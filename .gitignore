@@ -2,3 +2,4 @@ notebooks/data/
 notebooks/data2/
 
 .idea/**
+.DS_Store
